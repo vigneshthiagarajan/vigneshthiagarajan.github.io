@@ -123,7 +123,7 @@ p.footer {
     color: #33EBFF !important;
 }
 .timeline-badge a:hover {
-    color: #808080 !important;
+    color: #000000!important;
 }
 .timeline-title {
     margin-top: 0;
