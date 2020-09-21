@@ -62,7 +62,7 @@ p.lead {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #33EBFF;/*CHECK*/
+  background-color: #2F4F4F;/*CHECK*/
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
@@ -76,7 +76,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #000000;/*CHECK*/
+  background-color: #33EBFF;/*CHECK*/
 }
 
 .dev-icons {
