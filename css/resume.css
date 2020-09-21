@@ -84,7 +84,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #33EBFF;/*CHECK*/
+  color: #C0C0C0;/*CHECK*/
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -192,5 +192,5 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #fff; /*CHECK*/
+  color: #C0C0C0; /*CHECK*/
 }
