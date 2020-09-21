@@ -76,7 +76,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #C0C0C0;/*CHECK*/
+  background-color: #000000;/*CHECK*/
 }
 
 .dev-icons {
@@ -84,7 +84,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #C0C0C0;/*CHECK*/
+  color: #000000;/*CHECK*/
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -192,5 +192,5 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #C0C0C0; /*CHECK*/
+  color: #000000; /*CHECK*/
 }
