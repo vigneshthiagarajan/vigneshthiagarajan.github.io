@@ -76,7 +76,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #556B2F;/*CHECK*/
+  background-color: #33EBFF;/*CHECK*/
 }
 
 .dev-icons {
@@ -184,11 +184,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #556B2F !important; /*CHECK*/
+  color: #33EBFF !important; /*CHECK*/
 }
 
 a {
-  color: #556B2F; /*CHECK*/
+  color: #33EBFF; /*CHECK*/
 }
 
 a:hover, a:focus, a:active {
