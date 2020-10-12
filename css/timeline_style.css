@@ -67,7 +67,7 @@ p.footer {
     width: -webkit-calc(100% - 25px);
     float: left;
     border: 1px solid #33EBFF;
-    background: #556B2F;
+    background: #33EBFF;
     color: #000;
     position: relative;
 }
@@ -120,7 +120,7 @@ p.footer {
     right: auto;
 }
 .timeline-badge > a {
-    color: #556B2F !important;
+    color: #33EBFF !important;
 }
 .timeline-badge a:hover {
     color: #000000!important;
