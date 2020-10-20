@@ -1,2 +1,2 @@
 # vigneshthiagarajan.github.io
-My Portfolio
+My Portfolio/Personal Site
