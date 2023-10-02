@@ -145,3 +145,13 @@ footer a:not(.nav-link) {
     .img-thumbnail{
       border-radius: 5rem;
     }
+
+
+.new-class-quote{
+  margin-top: auto;
+  font-size: 1.25rem;
+}
+
+.class-quote{
+  font-size: 1.25rem;
+}
